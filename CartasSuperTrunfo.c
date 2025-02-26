@@ -62,7 +62,7 @@ int main() {
     scanf("%d", &Populacao2);
     getchar();
 
-    printf("Digite a area em km² da cidade: ");
+    printf("Digite a area em km²: ");
     scanf("%f", &Area2);
     getchar();
 
