@@ -58,7 +58,7 @@ int main() {
     printf("Digite o nome da cidade: ");
     scanf(" %[^\n]", NomeCidade2);
 
-    printf("Digite a populacao da cidade: ");
+    printf("Digite o numero da Populacao: ");
     scanf("%d", &Populacao2);
     getchar();
 
